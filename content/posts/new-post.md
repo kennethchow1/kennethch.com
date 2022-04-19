@@ -5,9 +5,8 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - tutorial
 ---
-# How to record and archive Twitch Livestreams using StreamLink and Google Workspace.
 ## Introduction
 In this guide, we'll explain how to record any Twitch live stream in real-time and automatically upload to the Cloud (Google Workspace) using your Debian server. It allows you to be able to save live streams from your favorite streamers without having to worry about deleted VODs or muted VODs due to DMCA. Google Workspace is commonly used for business and enterprise applications but it's perfect for uploading and storing large files.
 
