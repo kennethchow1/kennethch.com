@@ -1,7 +1,7 @@
 ---
 title: "Tor"
 date: 2022-07-08T12:23:02-07:00
-draft: true
+draft: false
 comments: false
 images:
 tags: 
