@@ -1,5 +1,5 @@
 ---
-title: "Tor"
+title: "Introduction and Setup Tutorial for hosting Tor Relay"
 date: 2022-08-08T13:11:33-07:00
 draft: false
 toc: false
